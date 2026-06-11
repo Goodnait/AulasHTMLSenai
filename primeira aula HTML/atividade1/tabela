@@ -1,0 +1,26 @@
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Idade</th>
+      <th>Profissão</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ana Silva</td>
+      <td>28</td>
+      <td>Engenheira</td>
+    </tr>
+    <tr>
+      <td>Bruno Costa</td>
+      <td>34</td>
+      <td>Designer</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="3">Média de idade: 31</td>
+    </tr>
+  </tfoot>
+</table>
