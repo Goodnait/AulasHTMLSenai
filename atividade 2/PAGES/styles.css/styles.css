@@ -1,11 +1,9 @@
 h1 {
     background-color: blue;
-
 }
 
-h1 {
+#titulo-roxo {
     background-color: purple;
-
 }
 
 .titulo-rosa {
@@ -15,4 +13,8 @@ h1 {
 section {
     background-color: aquamarine;
     padding: 10px;
+}
+
+a {
+    color:blue;
 }
